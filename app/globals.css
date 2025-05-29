@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.face-font {
+    font-family: 'Press Start 2P', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+}
