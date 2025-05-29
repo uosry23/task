@@ -24,7 +24,7 @@ const GiftCardSection = () => {
           {allCards.map(({ src }, index) => (
             <div
               key={index}
-              className="bg-white rounded-xl p-5 shadow-lg   shadow-gray-300 hover:shadow-2xl transition-shadow duration-300 cursor-pointer max-w-xs mx-auto w-[200px]"
+              className="bg-white rounded-xl p-5 shadow-lg   shadow-gray-300 hover:shadow-2xl transition-shadow duration-300 cursor-pointer max-w-xs mx-auto md:w-[200px]"
             >
               <img
                 src={src}

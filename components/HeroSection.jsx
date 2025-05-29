@@ -99,13 +99,13 @@ const CardStack = ({ activeTab }) => {
         </div>
 
         {/* Text & Button */}
-        <div className="text-center mt-4 md:mt-16 px-4">
+        <div className="text-center mt-4 md:mt-16 px-4 text-center">
           <p className="text-base md:text-lg text-gray-600 mb-6 max-w-2xl mx-auto">
             Can’t decide on the perfect set? Let them choose their own adventure with a LEGO® Gift Card.
             From epic builds to tiny treasures, they’ll get exactly what they love—when they want it.
             No stress, no guesswork, no expiration date. Just pure, build-it-your-way joy.
           </p>
-          <button className="bg-blue-800 hover:bg-blue-700 text-white font-bold py-3 px-15  md:px-35 rounded-full text-base md:text-lg transition-all duration-200">
+          <button className="bg-blue-800 hover:bg-blue-700 text-white font-bold py-3 px-5 md:px-14 rounded-full text-base md:text-lg transition-all duration-200">
             Make their Day
           </button>
         </div>
